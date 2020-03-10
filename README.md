@@ -8,6 +8,7 @@ A collection of things one may need to get started streaming using obs and twitc
 
 ### Includes:
 **OBS profile for twitch**
+
 **scenes**
 - offline
 - stream starting
