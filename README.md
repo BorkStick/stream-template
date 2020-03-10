@@ -6,9 +6,22 @@ A collection of things one may need to get started streaming using obs and twitc
 
 ![OBS PROFILE](/IMAGES/screenshot.gif "OBS PROFILE")
 
-Includes:
-OBS profile for twitch
-OBS scenes
+### Includes:
+**OBS profile for twitch**
+**scenes**
+- offline
+- stream starting
+- brb
+
+- desktop
+- desktop with chat
+- game
+
+**overlays**
+- 4:3 cam
+- 16:9 cam
+- streamlabs alerts
+- streamlabs chat
 
 **OBS graphics**
 
@@ -24,7 +37,7 @@ OBS scenes
 
 ### OBS Studio
 
-Profile:
+**Import Profile:**
 
 Profile > Import
 
@@ -32,7 +45,7 @@ Profile > Import
 stream-template-2020/OBS/Profile
 ```
 
-Scenes:
+**Import Scenes:**
 
 Scene Collection > Import
 
@@ -40,7 +53,17 @@ Scene Collection > Import
 stream-template-2020/OBS/Scene Collection/OBS_TEMPLATE__Twitch__1080__2020.json
 ```
 
+**Import Graphics:**
+
+go to `SOURCES` scene and change location for all the files to match your folder location
+
+eg.
+```
+c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
+```
+
 ## TODO
+- [ ] better documentation 
 
 - [ ] need to get a better way to import this. at the moment you have to manually change the path for the obs graphics
 
