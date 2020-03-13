@@ -36,7 +36,7 @@ A collection of things one may need to get started streaming using obs and twitc
 ![Logo Example](/IMAGES/Twitch/EXPORT/LOGO.png "Logo Example")
 - panels
 
-![Panel Example](IMAGES\Twitch\EXPORT\TEMPLATE.png "Panel Example")
+![Panel Example](/IMAGES/Twitch/EXPORT/TEMPLATE.png "Panel Example")
 
 ## Installation:
 
