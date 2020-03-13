@@ -89,7 +89,9 @@ c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
         - [ ] script
         - [ ] search and replace
         - [ ] manually do it 
+        - [ ] make sure the paths match up (not all caps git will clone as lowercase)
     - [ ] add requirements 
+    
 
 - [ ] clean things up 
 
