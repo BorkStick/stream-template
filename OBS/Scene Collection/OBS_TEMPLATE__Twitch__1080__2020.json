@@ -220,15 +220,11 @@
                 ],
                 "libobs.hide_scene_item.4:3 Webcam  Overlay": [],
                 "libobs.hide_scene_item.Chat Overlay": [],
-                "libobs.hide_scene_item.Image": [],
                 "libobs.hide_scene_item.Main Screen": [],
-                "libobs.hide_scene_item.SL - Chat Box": [],
                 "libobs.hide_scene_item.Streamlabs Overlays": [],
                 "libobs.show_scene_item.4:3 Webcam  Overlay": [],
                 "libobs.show_scene_item.Chat Overlay": [],
-                "libobs.show_scene_item.Image": [],
                 "libobs.show_scene_item.Main Screen": [],
-                "libobs.show_scene_item.SL - Chat Box": [],
                 "libobs.show_scene_item.Streamlabs Overlays": []
             },
             "id": "scene",
@@ -288,35 +284,6 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 4,
-                        "locked": false,
-                        "name": "SL - Chat Box",
-                        "pos": {
-                            "x": 1520.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.80000001192092896,
-                            "y": 0.80000001192092896
-                        },
-                        "scale_filter": "disable",
-                        "visible": false
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
                         "id": 7,
                         "locked": true,
                         "name": "Chat Overlay",
@@ -361,35 +328,6 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 5,
-                        "locked": true,
-                        "name": "Image",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": false
                     },
                     {
                         "align": 5,
@@ -2633,10 +2571,10 @@
                 "flip_vertically": false,
                 "frame_interval": 0,
                 "last_resolution": "1280x720",
-                "last_video_device_id": "Logitech HD Pro Webcam C910:\\\\?\\usb#22vid_046d&pid_0821&mi_02#228&300b089e&0&0002#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}",
+                "last_video_device_id": "",
                 "res_type": 1,
                 "resolution": "1280x720",
-                "video_device_id": "Logitech HD Pro Webcam C910:\\\\?\\usb#22vid_046d&pid_0821&mi_02#228&300b089e&0&0002#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}",
+                "video_device_id": "",
                 "video_format": 400
             },
             "sync": 0,
@@ -2670,7 +2608,7 @@
                 "fps_custom": false,
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/cam-overlay.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/cam-overlay.svg",
                 "restart_when_active": true,
                 "width": 1920
             },
@@ -2703,7 +2641,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/background.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/background.svg",
                 "width": 1920
             },
             "sync": 0,
@@ -2735,7 +2673,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/bottom-ticker.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/bottom-ticker.svg",
                 "restart_when_active": true,
                 "width": 1920
             },
@@ -2768,7 +2706,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/top-ticker.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/top-ticker.svg",
                 "restart_when_active": true,
                 "width": 1920
             },
@@ -2801,7 +2739,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/horizontal-center-split.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/horizontal-center-split.svg",
                 "restart_when_active": true,
                 "shutdown": false,
                 "width": 1920
@@ -2835,7 +2773,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/vertical-center-split.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/vertical-center-split.svg",
                 "restart_when_active": true,
                 "width": 1920
             },
@@ -2868,7 +2806,7 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/left-third-vertical-split.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/left-third-vertical-split.svg",
                 "restart_when_active": true,
                 "width": 1920
             },
@@ -2901,33 +2839,9 @@
             "settings": {
                 "height": 1080,
                 "is_local_file": true,
-                "local_file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/right-third-vertical-split.svg",
+                "local_file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/right-third-vertical-split.svg",
                 "restart_when_active": true,
                 "width": 1920
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "image_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Image",
-            "prev_ver": 402653187,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "file": "C:/Users/aciidic/Pictures/1 ZONIBEuy6A81af7xECUVgg.png"
             },
             "sync": 0,
             "volume": 1.0
@@ -3066,7 +2980,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/Users/aciidic/STREAM-TEMPLATE-2020/IMAGES/OBS/usericon.png"
+                "file": "C:/Users/USERNAME/STREAM-TEMPLATE-2020/IMAGES/OBS/usericon.png"
             },
             "sync": 0,
             "volume": 1.0
