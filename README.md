@@ -9,7 +9,7 @@ A collection of things one may need to get started streaming using obs and twitc
 ### Includes:
 **OBS profile for twitch**
 
-**scenes**
+**Scenes**
 - offline
 - stream starting
 - brb
@@ -18,7 +18,7 @@ A collection of things one may need to get started streaming using obs and twitc
 - desktop with chat
 - game
 
-**overlays**
+**Overlays**
 - 4:3 cam
 - 16:9 cam
 - streamlabs alerts
@@ -60,7 +60,20 @@ stream-template-2020/OBS/Scene Collection/OBS_TEMPLATE__Twitch__1080__2020.json
 
 **Import Graphics:**
 
-go to `SOURCES` scene and change location for all the files to match your folder location
+Run a search and replace on `/STREAM-TEMPLATE-2020/OBS/Scene Collection/OBS_TEMPLATE__Twitch__1080__2020.json`
+
+- search for 
+```
+C:/Users/USERNAME/STREAM-TEMPLATE-2020
+```
+ - replace with your username 
+```
+C:/Users/YOUR_USERNAME/STREAM-TEMPLATE-2020
+```
+
+or
+
+Go to the `SOURCES` scene in OBS and manualy change location for all the files to match your folder location
 
 eg.
 ```
@@ -69,7 +82,26 @@ c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
 
 ## TODO
 - [ ] better documentation 
+    - [ ] write better description for the project 
+    - [ ] work on the readme formating 
+    - [ ] add list of things that are included 
+    - [ ] installation instructions 
+        - [ ] script
+        - [ ] search and replace
+        - [ ] manually do it 
+    - [ ] add requirements 
+
+- [ ] clean things up 
+
+- [ ] update the illistrator files for panels and logo
 
 - [ ] need to get a better way to import this. at the moment you have to manually change the path for the obs graphics
 
 - [ ] figure out a way to update the colors of the SVGs in obs
+
+- [ ] test it out 
+    - [ ] obs import
+        - [ ] profile
+        - [ ] scenes 
+        - [ ] make sure the script works for the graphics 
+    - [ ] test the scripts 
