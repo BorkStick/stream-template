@@ -1,5 +1,4 @@
-# Stream Template 2020
-
+# Stream Template
 ## Info
 
 A collection of things one may need to get started streaming using obs and twitch
