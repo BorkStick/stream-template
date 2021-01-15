@@ -79,6 +79,20 @@ eg.
 c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
 ```
 
+Getting started 
+Adding Cam
+
+go to the `MISC` section in the scenes
+
+select `SOURCES` 
+
+update `CAM` from here
+
+update `Background` here
+
+update `Cam Overlay` here
+
+
 ## TODO
 - [ ] better documentation 
     - [ ] write better description for the project 
