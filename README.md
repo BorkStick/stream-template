@@ -9,33 +9,37 @@ A collection of things one may need to get started streaming using obs and twitc
 **OBS profile for twitch**
 
 **[Scenes](https://github.com/BorkStick/stream-template/tree/master/IMAGES/Scenes)**
-- offline
-- stream starting
-- brb
+- Offline
+- Stream starting
+- BRB
 
-- desktop
-- desktop with chat
-- game
+- Desktop
+- Desktop with chat
+- Game
 
 **Overlays**
-- 4:3 cam
-- 16:9 cam
-- streamlabs alerts
-- streamlabs chat
+- 4:3 Cam
+- 16:9 Cam
+- Streamlabs alerts
+- Streamlabs chat
 
 **OBS graphics**
 
-- webcam overlay
-- background
+- Webcam overlay
+- Background
 
 **Twitch graphics**
 
-- logo
+- Logo
 
 ![Logo Example](/IMAGES/Twitch/EXPORT/LOGO.png "Logo Example")
-- panels
+- Panels
 
 ![Panel Example](/IMAGES/Twitch/EXPORT/TEMPLATE.png "Panel Example")
+
+
+
+
 
 ## Installation:
 
@@ -82,41 +86,45 @@ c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
 Getting started 
 Adding Cam
 
-go to the `MISC` section in the scenes
+Go to the `MISC` section in the scenes
 
-select `SOURCES` 
+Select `SOURCES` 
 
-update `CAM` from here
+Update `CAM` from here
 
-update `Background` here
+Update `Background` here
 
-update `Cam Overlay` here
+Update `Cam Overlay` here
+
+
 
 
 ## TODO
-- [ ] better documentation 
-    - [ ] write better description for the project 
-    - [ ] work on the readme formating 
-    - [ ] add list of things that are included 
-    - [ ] installation instructions 
-        - [ ] script
-        - [ ] search and replace
-        - [ ] manually do it 
-        - [ ] make sure the paths match up (not all caps git will clone as lowercase)
-    - [ ] add requirements 
+- [ ] Better Documentation 
+    - [ ] Write better description for the project 
+    - [ ] Work on the readme formating 
+    - [ ] Add list of things that are included 
+    - [ ] Installation instructions 
+        - [ ] Script
+        - [ ] Search and replace
+        - [ ] Manually do it 
+        - [ ] Make sure the paths match up (not all caps git will clone as lowercase)
+    - [ ] Add requirements 
     
 
-- [ ] clean things up 
+- [ ] Clean things up 
 
-- [ ] update the illistrator files for panels and logo
+- [ ] Update the illistrator files for panels and logo
+- [ ] Panel sizes logo sizes
+- [ ] Panel and logo guides
 
-- [ ] need to get a better way to import this. at the moment you have to manually change the path for the obs graphics
+- [ ] Need to get a better way to import this. at the moment you have to manually change the path for the obs graphics
 
-- [ ] figure out a way to update the colors of the SVGs in obs
+- [ ] Figure out a way to update the colors of the SVGs in obs
 
-- [ ] test it out 
-    - [ ] obs import
-        - [ ] profile
-        - [ ] scenes 
-        - [ ] make sure the script works for the graphics 
-    - [ ] test the scripts 
+- [ ] Test it out 
+    - [ ] OBS import
+        - [ ] Profile
+        - [ ] Scenes 
+        - [ ] Make sure the script works for the graphics 
+    - [ ] Test the scripts 
