@@ -44,18 +44,7 @@ A collection of things one may need to get started streaming using obs and twitc
 ## [Installation](https://github.com/BorkStick/stream-template/wiki/Install):
 
 
-Getting started 
-Adding Cam
 
-Go to the `MISC` section in the scenes
-
-Select `SOURCES` 
-
-Update `CAM` from here
-
-Update `Background` here
-
-Update `Cam Overlay` here
 
 
 
