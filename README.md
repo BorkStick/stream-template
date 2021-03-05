@@ -41,47 +41,8 @@ A collection of things one may need to get started streaming using obs and twitc
 
 
 
-## Installation:
+## [Installation](https://github.com/BorkStick/stream-template/wiki/Install):
 
-### OBS Studio
-
-**Import Profile:**
-
-Profile > Import
-
-```
-stream-template-2020/OBS/Profile
-```
-
-**Import Scenes:**
-
-Scene Collection > Import
-
-```
-stream-template-2020/OBS/Scene Collection/OBS_TEMPLATE__Twitch__1080__2020.json
-```
-
-**Import Graphics:**
-
-Run a search and replace on `/STREAM-TEMPLATE-2020/OBS/Scene Collection/OBS_TEMPLATE__Twitch__1080__2020.json`
-
-- search for 
-```
-C:/Users/USERNAME/STREAM-TEMPLATE-2020
-```
- - replace with your username 
-```
-C:/Users/YOUR_USERNAME/STREAM-TEMPLATE-2020
-```
-
-or
-
-Go to the `SOURCES` scene in OBS and manualy change location for all the files to match your folder location
-
-eg.
-```
-c:/Users/USER/stream-template-2020/IMAGES/OBS/*.svg
-```
 
 Getting started 
 Adding Cam
