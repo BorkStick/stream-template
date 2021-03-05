@@ -27,7 +27,7 @@ A collection of things one may need to get started streaming using obs and twitc
 
 ## [Installation](https://github.com/BorkStick/stream-template/wiki/Install):
 
-
+Manual installation only scripts are a TODO
 
 
 
