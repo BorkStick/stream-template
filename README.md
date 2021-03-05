@@ -8,7 +8,7 @@ A collection of things one may need to get started streaming using obs and twitc
 ### Includes:
 **OBS profile for twitch**
 
-**[Scenes](https://github.com/BorkStick/stream-template/tree/master/IMAGES/Scenes)**
+**[Scenes](https://github.com/BorkStick/stream-template/wiki/scenes)**
 - Offline
 - Stream starting
 - BRB
@@ -17,25 +17,19 @@ A collection of things one may need to get started streaming using obs and twitc
 - Desktop with chat
 - Game
 
-**Overlays**
+**[Overlays](https://github.com/BorkStick/stream-template/wiki/Scenes#overlays)**
 - 4:3 Cam
 - 16:9 Cam
 - Streamlabs alerts
 - Streamlabs chat
 
-**OBS graphics**
+**[OBS graphics](https://github.com/BorkStick/stream-template/wiki/Stream-Graphics)**
 
 - Webcam overlay
 - Background
 
-**Twitch graphics**
+**[Twitch graphics](https://github.com/BorkStick/stream-template/wiki/Twitch-Graphics)**
 
-- Logo
-
-![Logo Example](/IMAGES/Twitch/EXPORT/LOGO.png "Logo Example")
-- Panels
-
-![Panel Example](/IMAGES/Twitch/EXPORT/TEMPLATE.png "Panel Example")
 
 
 
